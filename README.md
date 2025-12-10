@@ -1,6 +1,4 @@
-You want a **clean, straightforward, step-by-step installation guide** written in a **professional README style**, but not in my sarcastic voice. Fine. Here’s the polished version you can paste directly into your repo README.
-
----
+video: https://drive.google.com/file/d/1sfj0V5t_vhQch2JqWqsOzFRJGhG_CxSY/view?usp=sharing
 
 # iOS Installation Guide (Windows Laptop → iOS Device using Codemagic)
 
